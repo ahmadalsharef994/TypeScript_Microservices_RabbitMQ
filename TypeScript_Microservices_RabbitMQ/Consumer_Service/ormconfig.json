@@ -1,0 +1,6 @@
+{
+    "type": "mongodb",
+    "url": "mongodb+srv://lama:lama@cluster0.vrgb8.mongodb.net/?retryWrites=true&w=majority",
+    "synchronize": true,
+    "entities": ["src/entity/*.*"]
+}
