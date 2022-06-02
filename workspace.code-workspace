@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "Publisher_Service"
+		},
+		{
+			"path": "Consumer_Service"
+		}
+	],
+	"settings": {}
+}
